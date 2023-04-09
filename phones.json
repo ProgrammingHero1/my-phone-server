@@ -1,0 +1,107 @@
+[
+    {
+       "id":1,
+       "name":"iPhone 13 mini",
+       "price":899.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+    },
+    {
+       "id":2,
+       "name":"iPhone 13 Pro",
+       "price":799.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg"
+    },
+    {
+        "id":3,
+       "name":"iPhone 13 Pro Max",
+       "price":709.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+    },
+    {
+        "id":4,
+       "name":"iPhone 13",
+       "price":699.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+    },
+    {
+        "id":5,
+       "name":"iPhone 12 Pro Max",
+       "price":599.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+    },
+    {
+        "id":6,
+       "name":"iPhone 12 Pro",
+       "price":509.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg"
+    },
+    {
+        "id":7,
+       "name":"iPhone 12",
+       "price":499.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+    },
+    {
+        "id":8,
+       "name":"iPhone 12 mini",
+       "price":409.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg"
+    },
+    {
+        "id":9,
+       "name":"iPhone SE (2020)",
+       "price":399.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+    },
+    {
+        "id":10,
+       "name":"iPhone 11 Pro Max",
+       "price":309.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg"
+    },
+    {
+        "id":11,
+       "name":"iPhone 11 Pro",
+       "price":299.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+    },
+    {
+        "id":12,
+       "name":"iPhone 11",
+       "price":219.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+    },
+    {
+        "id":13,
+       "name":"iPhone XS Max",
+       "price":209.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg"
+    },
+    {
+        "id":14,
+       "name":"iPhone XR",
+       "price":201.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
+    },
+    {
+        "id":15,
+       "name":"iPhone XS",
+       "price":199.9,
+       "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, aperiam cum ipsam facere atque voluptatum explicabo nostrum quibusdam amet nisi, quam praesentium minus.",
+       "image":"https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+    }
+ ]
